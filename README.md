@@ -1,1 +1,3 @@
-# K-Masal-m
+$Kış Masalım
+
+MIT License & 2023
